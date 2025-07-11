@@ -203,7 +203,7 @@ a:hover {
 }
 
 #logo {
-    position: relative;
+    display: none;
 }
 
 #sobre {
